@@ -3,8 +3,10 @@
  ## I'm a Student, EC Engineer, and Gremlin Certified Chaos Engineering Practitioner !!
 
  - 👀 I’m currently learning everything 🤣
- - 🧠2021 Goals: Contribute more to Open Source projects and to do internship to gain industry experience
- - 🤓Fun fact: I love to play Cricket and read technical blogs to enhance my knowledege 🤩
+ - 🥇 I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
+ - 🔔 Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing
+ - 🧠 2021 Goals: Contribute more to Open Source projects and to do internship to gain industry experience
+ - 🤓 Fun fact: I love to play Cricket and read technical blogs to enhance my knowledege 🤩
 
  ### Connect with me:
  <img src="https://c.tenor.com/P0n2IkAiQiMAAAAj/holy-spirit-the-way.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to connect with me, feel free to reach out and introduce yourself</b> 😊 💜</em>
