@@ -103,7 +103,7 @@
 
 [medium]: https://medium.com/@pranay3agrawal
 [linkedin]: www.linkedin.com/in/pranay-agrawal-7621831b2
-[mail]: pranay3agrawal@gmail.com
+[mail]: mailto:pranay3agrawal@gmail.com
 [instagram]: https://www.instagram.com/rokstar_agrawal_316
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
