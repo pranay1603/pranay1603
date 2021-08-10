@@ -3,7 +3,7 @@
  ## I'm a Student, EC Engineer, and Gremlin Certified Chaos Engineering Practitioner !!
 
 <div align = "center">
- <img width="50%" height="50%" src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="">
+ <img width="35%" height="35%" src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="">
 </div>
 
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
