@@ -11,6 +11,8 @@
 
  [<img align="left" alt="Pranay Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="Pranay Agrawal | medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
+ [<img align="left" alt="Pranay Agrawal | instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_rGCEk_XHiTo8S-tT6oy-rT7rFFd-mYX6g&usqp=CAU" />][instagram]
+ [<img align="left" alt="Pranay Agrawal | mail" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9aiM8F61drmvellAGFt2hDk43pfFxJZGCw&usqp=CAU" />][mail]
 
  <br />
 
@@ -101,6 +103,8 @@
 
 [medium]: https://medium.com/@pranay3agrawal
 [linkedin]: www.linkedin.com/in/pranay-agrawal-7621831b2
+[mail]: pranay3agrawal@gmail.com
+[instagram]: https://www.instagram.com/rokstar_agrawal_316
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
 [azure]: https://azure.microsoft.com/en-in/features/azure-portal/
