@@ -6,6 +6,8 @@
  <img width="50%" height="50%" src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="">
 </div>
 
+<h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
+
  - 👀 I’m currently learning everything 🤣
  - 🥇 I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  - 🔔 Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing
