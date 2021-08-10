@@ -33,6 +33,8 @@
  [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
  [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
  [<img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" />][hadoop]
+ [<img align="left" alt="mongodb" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />][mongodb]
+
 
  <br />
  <br />
@@ -120,4 +122,5 @@
 [git]: https://git-scm.com/ 
 [github]: https://github.com/
 [hadoop]: https://hadoop.apache.org/
+[mongodb]: https://docs.mongodb.com/
 
