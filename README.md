@@ -2,6 +2,10 @@
 
  ## I'm a Student, EC Engineer, and Gremlin Certified Chaos Engineering Practitioner !!
 
+<div align = "center">
+ <img width="50%" height="50%" src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="">
+</div>
+
  - 👀 I’m currently learning everything 🤣
  - 🥇 I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  - 🔔 Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing
