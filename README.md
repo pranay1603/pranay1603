@@ -12,7 +12,7 @@
  [<img align="left" alt="Pranay Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="Pranay Agrawal | medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
  [<img align="left" alt="Pranay Agrawal | instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_rGCEk_XHiTo8S-tT6oy-rT7rFFd-mYX6g&usqp=CAU" />][instagram]
- [<img align="left" alt="Pranay Agrawal | mail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+ [<img align="left" alt="Pranay Agrawal | mail" width="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
  <br />
 
