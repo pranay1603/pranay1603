@@ -14,7 +14,7 @@
  - 🧠 2021 Goals: Contribute more to Open Source projects and to do internship to gain industry experience
  - 🤓 Fun fact: I love to play Cricket and read technical blogs to enhance my knowledege 🤩
 
- ### Connect with me:
+ <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> Connect with Me </h2>
  <img src="https://c.tenor.com/P0n2IkAiQiMAAAAj/holy-spirit-the-way.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to connect with me, feel free to reach out and introduce yourself</b> 😊 💜</em>
 
  [<img align="left" alt="Pranay Agrawal | LinkedIn" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
