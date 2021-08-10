@@ -9,9 +9,9 @@
  ### Connect with me:
  <img src="https://c.tenor.com/P0n2IkAiQiMAAAAj/holy-spirit-the-way.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to connect with me, feel free to reach out and introduce yourself</b> 😊 💜</em>
 
- [<img align="left" alt="Pranay Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Pranay Agrawal | medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
- [<img align="left" alt="Pranay Agrawal | instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_rGCEk_XHiTo8S-tT6oy-rT7rFFd-mYX6g&usqp=CAU" />][instagram]
+ [<img align="left" alt="Pranay Agrawal | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+ [<img align="left" alt="Pranay Agrawal | medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" />][medium]
+ [<img align="left" alt="Pranay Agrawal | instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
  [<img align="left" alt="Pranay Agrawal | mail" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
  <br />
