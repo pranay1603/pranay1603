@@ -1,6 +1,6 @@
 # Hi there, I'm Pranay Agrawal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
- ## I'm a Student, EC Engineer, and Gremlin Certified Chaos Engineering Practitioner !!
+ ## I'm a Student, EC Engineer, and RedHat certified System Administrator(RHCSA v8) !!
 
 <div align = "center">
  <img width="35%" height="35%" src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="">
