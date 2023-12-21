@@ -8,11 +8,11 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
 
- - 👀 I’m currently learning everything 🤣
+ - 👀 I’m currently working as a DevOps Technical Lead in Senpiper Technologies.
  - 🥇 I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  - 🔔 Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing
- - 🧠 2021 Goals: Contribute more to Open Source projects and to do internship to gain industry experience
- - 🤓 Fun fact: I love to play Cricket and read technical blogs to enhance my knowledege 🤩
+ - 🧠 2024 Goals: Contribute more to Open Source projects and provide my valuable skills for the growth of the organization.
+ - 🤓 Fun fact: I love to play Cricket and read technical blogs to enhance my knowledge 🤩
 
  <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> Connect with Me </h2>
  <img src="https://c.tenor.com/P0n2IkAiQiMAAAAj/holy-spirit-the-way.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to connect with me, feel free to reach out and introduce yourself</b> 😊 💜</em>
