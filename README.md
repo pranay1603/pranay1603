@@ -112,7 +112,7 @@
 <a href="https://github.com/pranay1603"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 [medium]: https://medium.com/@pranay3agrawal
-[linkedin]: www.linkedin.com/in/pranay-agrawal-7621831b2
+[linkedin]: www.linkedin.com/in/pranay03
 [mail]: mailto:pranay3agrawal@gmail.com
 [instagram]: https://www.instagram.com/rokstar_agrawal_316
 [aws]: https://aws.amazon.com/
